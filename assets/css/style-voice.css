@@ -1,0 +1,27 @@
+.webreader-button {
+	cursor: pointer;
+}
+.webreader-image {
+	display: inline-block;
+	margin-bottom: 20px;
+	box-shadow: 0 0 0 0 currentColor !important;
+	border: 0;
+}
+.webreader-image:hover {
+	text-decoration: none;
+}
+.webreader-image-off,
+.webreader-image-pause,
+.webreader-image-resume {
+	display: none;
+	margin-bottom: 20px;
+	box-shadow: 0 0 0 0 currentColor !important;
+	border-bottom: 0 !important;
+}
+
+.webreader-image img,
+.webreader-image-off img, 
+.webreader-image-pause img, 
+.webreader-image-resume img {
+	box-shadow: 0 0 0 0 currentColor !important;
+}

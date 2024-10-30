@@ -1,0 +1,861 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Post Voice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-21 00:53+0100\n"
+"PO-Revision-Date: 2019-12-21 00:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: g.alex17@gmail.com\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/main.php:10 magic_post_voice.php:96
+msgid "Settings"
+msgstr "Paramètres"
+
+#: inc/admin/main.php:32
+msgid "Language"
+msgstr "Langue"
+
+#: inc/admin/main.php:39
+msgid "Autodetect (Detect browser language)"
+msgstr "Automatique (Détecte langue du navigateur)"
+
+#: inc/admin/main.php:40
+msgid "UK English Female"
+msgstr "Anglais UK - Femme"
+
+#: inc/admin/main.php:41
+msgid "UK English Male"
+msgstr "Anglais UK - Homme"
+
+#: inc/admin/main.php:42
+msgid "US English Female"
+msgstr "Anglais US - Femme"
+
+#: inc/admin/main.php:43
+msgid "US English Male"
+msgstr "Anglais US - Homme"
+
+#: inc/admin/main.php:44
+msgid "Spanish Female"
+msgstr "Espagnol - Femme"
+
+#: inc/admin/main.php:45
+msgid "Spanish Male"
+msgstr "Espagnol - Homme"
+
+#: inc/admin/main.php:46
+msgid "French Female"
+msgstr "Français - Femme"
+
+#: inc/admin/main.php:47
+msgid "French Male"
+msgstr "Français - Homme"
+
+#: inc/admin/main.php:48
+msgid "Deutsch Female"
+msgstr "Allemand - Femme"
+
+#: inc/admin/main.php:49
+msgid "Deutsch Male"
+msgstr "Allemand - Homme"
+
+#: inc/admin/main.php:50
+msgid "Italian Female"
+msgstr "Italien - Femme"
+
+#: inc/admin/main.php:51
+msgid "Italian Male"
+msgstr "Italien - Homme"
+
+#: inc/admin/main.php:52
+msgid "Greek Female"
+msgstr "Grec - Femme"
+
+#: inc/admin/main.php:53
+msgid "Greek Male"
+msgstr "Grec - Homme"
+
+#: inc/admin/main.php:54
+msgid "Hungarian Female"
+msgstr "Hongrois - Femme"
+
+#: inc/admin/main.php:55
+msgid "Hungarian Male"
+msgstr "Hongrois - Homme"
+
+#: inc/admin/main.php:56
+msgid "Turkish Female"
+msgstr "Turc - Femme"
+
+#: inc/admin/main.php:57
+msgid "Turkish Male"
+msgstr "Turc - Homme"
+
+#: inc/admin/main.php:58
+msgid "Russian Female"
+msgstr "Russe - Femme"
+
+#: inc/admin/main.php:59
+msgid "Russian Male"
+msgstr "Russe - Homme"
+
+#: inc/admin/main.php:60
+msgid "Dutch Female"
+msgstr "Néerlandais - Femme"
+
+#: inc/admin/main.php:61
+msgid "Dutch Male"
+msgstr "Néerlandais - Homme"
+
+#: inc/admin/main.php:62
+msgid "Swedish Female"
+msgstr "Suédois - Femme"
+
+#: inc/admin/main.php:63
+msgid "Swedish Male"
+msgstr "Suédois - Homme"
+
+#: inc/admin/main.php:64
+msgid "Norwegian Female"
+msgstr "Norvégien - Femme"
+
+#: inc/admin/main.php:65
+msgid "Norwegian Male"
+msgstr "Norvégien - Homme"
+
+#: inc/admin/main.php:66
+msgid "Japanese Female"
+msgstr "Japonais - Femme"
+
+#: inc/admin/main.php:67
+msgid "Japanese Male"
+msgstr "Japonais - Homme"
+
+#: inc/admin/main.php:68
+msgid "Korean Female"
+msgstr "Coréen - Femme"
+
+#: inc/admin/main.php:69
+msgid "Korean Male"
+msgstr "Coréen - Homme"
+
+#: inc/admin/main.php:70
+msgid "Chinese Female"
+msgstr "Chinois - Femme"
+
+#: inc/admin/main.php:71
+msgid "Chinese Male"
+msgstr "Chinois - Homme"
+
+#: inc/admin/main.php:72
+msgid "Hindi Female"
+msgstr "Hindi - Femme"
+
+#: inc/admin/main.php:73
+msgid "Hindi Male"
+msgstr "Hindi - Homme"
+
+#: inc/admin/main.php:74
+msgid "Serbian FeMale"
+msgstr "Serbe - Femme"
+
+#: inc/admin/main.php:75
+msgid "Serbian Male"
+msgstr "Serbe - Homme"
+
+#: inc/admin/main.php:76
+msgid "Croatian Female"
+msgstr "Croate - Femme"
+
+#: inc/admin/main.php:77
+msgid "Croatian Male"
+msgstr "Croate - Homme"
+
+#: inc/admin/main.php:78
+msgid "Bosnian Female"
+msgstr "Bosnie - Femme"
+
+#: inc/admin/main.php:79
+msgid "Bosnian Male"
+msgstr "Bosnie - Homme"
+
+#: inc/admin/main.php:80
+msgid "Romanian Female"
+msgstr "Roumain - Femme"
+
+#: inc/admin/main.php:81
+msgid "Romanian Male"
+msgstr "Roumain - Homme"
+
+#: inc/admin/main.php:82
+msgid "Catalan Male"
+msgstr "Catalan - Homme"
+
+#: inc/admin/main.php:83
+msgid "Australian Female"
+msgstr "Australien - Femme"
+
+#: inc/admin/main.php:84
+msgid "Australian Male"
+msgstr "Australien - Homme"
+
+#: inc/admin/main.php:85
+msgid "Finnish Female"
+msgstr "Finlandais - Femme"
+
+#: inc/admin/main.php:86
+msgid "Finnish Male"
+msgstr "Finlandais - Homme"
+
+#: inc/admin/main.php:87
+msgid "Afrikaans Male"
+msgstr "Afrikaans - Homme"
+
+#: inc/admin/main.php:88
+msgid "Albanian Male"
+msgstr "Albanais - Homme"
+
+#: inc/admin/main.php:89
+msgid "Arabic Female"
+msgstr "Arabe - Femme"
+
+#: inc/admin/main.php:90
+msgid "Arabic Male"
+msgstr "Arabe - Homme"
+
+#: inc/admin/main.php:91
+msgid "Armenian Male"
+msgstr "Arménien - Homme"
+
+#: inc/admin/main.php:92
+msgid "Czech Female"
+msgstr "Tchèque - Femme"
+
+#: inc/admin/main.php:93
+msgid "Czech Male"
+msgstr "Tchèque - Homme"
+
+#: inc/admin/main.php:94
+msgid "Danish Female"
+msgstr "Danois - Femme"
+
+#: inc/admin/main.php:95
+msgid "Danish Male"
+msgstr "Danois - Homme"
+
+#: inc/admin/main.php:96
+msgid "Esperanto Male"
+msgstr "Espéranto - Homme"
+
+#: inc/admin/main.php:97
+msgid "Icelandic Male"
+msgstr "Islandais - Homme"
+
+#: inc/admin/main.php:98
+msgid "Indonesian Female"
+msgstr "Indonesien - Femme"
+
+#: inc/admin/main.php:99
+msgid "Indonesian Male"
+msgstr "Indonesien - Homme"
+
+#: inc/admin/main.php:100
+msgid "Latin Female"
+msgstr "Latin - Femme"
+
+#: inc/admin/main.php:101
+msgid "Latin Male"
+msgstr "Letton - Homme"
+
+#: inc/admin/main.php:102
+msgid "Latvian Male"
+msgstr "Letton - Homme"
+
+#: inc/admin/main.php:103
+msgid "Macedonian Male"
+msgstr "Macédonien - Homme"
+
+#: inc/admin/main.php:104
+msgid "Moldavian Male"
+msgstr "Moldave - Homme"
+
+#: inc/admin/main.php:105
+msgid "Montenegrin Male"
+msgstr "Monténégrin - Homme"
+
+#: inc/admin/main.php:106
+msgid "Polish Female"
+msgstr "Polonais - Femme"
+
+#: inc/admin/main.php:107
+msgid "Polish Male"
+msgstr "Polonais - Femme"
+
+#: inc/admin/main.php:108
+msgid "Brazilian Portuguese Female"
+msgstr "Portugais Brésilien - Femme"
+
+#: inc/admin/main.php:109
+msgid "Brazilian Portuguese Male"
+msgstr "Portugais Brésilien - Homme"
+
+#: inc/admin/main.php:110
+msgid "Portuguese Female"
+msgstr "Portugais - Femme"
+
+#: inc/admin/main.php:111
+msgid "Portuguese Male"
+msgstr "Portugais - Homme"
+
+#: inc/admin/main.php:112
+msgid "Serbo-Croatian Male"
+msgstr "Serbo-croate - Homme"
+
+#: inc/admin/main.php:113
+msgid "Slovak Female"
+msgstr "Slovaque - Femme"
+
+#: inc/admin/main.php:114
+msgid "Spanish Latin American Female"
+msgstr "Espagnol latino-américaine - Femme"
+
+#: inc/admin/main.php:115
+msgid "Spanish Latin American Male"
+msgstr "Espagnol latino-américaine - Homme"
+
+#: inc/admin/main.php:116
+msgid "Swahili Male"
+msgstr "Swahili - Homme"
+
+#: inc/admin/main.php:117
+msgid "Tamil Male"
+msgstr "Tamil - Homme"
+
+#: inc/admin/main.php:118
+msgid "Thai Female"
+msgstr "Thai - Femme"
+
+#: inc/admin/main.php:119
+msgid "Vietnamese Female"
+msgstr "Vietnamien - Femme"
+
+#: inc/admin/main.php:120
+msgid "Vietnamese Male"
+msgstr "Vietnamien - Homme"
+
+#: inc/admin/main.php:121
+msgid "Welsh Male"
+msgstr "Gallois - Homme"
+
+#: inc/admin/main.php:135
+msgid "Add Voice to"
+msgstr "Ajouter la voix sur"
+
+#: inc/admin/main.php:158
+msgid "Location"
+msgstr "Emplacement"
+
+#: inc/admin/main.php:161
+msgid "Header"
+msgstr "Header"
+
+#: inc/admin/main.php:162
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/admin/main.php:169
+msgid "Pitch"
+msgstr "Tonalité"
+
+#: inc/admin/main.php:191
+msgid "Rate"
+msgstr "Vitesse"
+
+#: inc/admin/main.php:214
+msgid "Volume"
+msgstr "Volume"
+
+#: magic_post_voice.php:70
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas d'autorisations suffisantes pour accéder à cette page."
+
+#: magic_post_voice.php:153 magic_post_voice.php:175
+msgid "Voice Reader"
+msgstr "Lecteur de voix"
+
+#: magic_post_voice.php:154 magic_post_voice.php:176
+msgid "Stop Voice Reader"
+msgstr "Arrêter le lecteur de voix"
+
+#: magic_post_voice.php:155 magic_post_voice.php:177
+msgid "Pause"
+msgstr "Pause"
+
+#: magic_post_voice.php:156 magic_post_voice.php:178
+msgid "Resume"
+msgstr "Reprendre"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Hatian Creole Female"
+#~ msgstr "Créole haïtienne - Femme"
+
+#~ msgid "Autodetect"
+#~ msgstr "Détection automatique"
+
+#~ msgid "Rights"
+#~ msgstr "Droits d'utilisation"
+
+#~ msgid "Choose which licence works for pictures. Licences chosen are cumulative."
+#~ msgstr "Choisissez quelles licences s'appliquent pour les images. Les licences choisies se cumulent."
+
+#~ msgid "If none of these options are chosen, every licences will be used."
+#~ msgstr "Si aucune des options n'est choisie, toutes les licences seront utilisées."
+
+#~ msgid "All Rights Reserved"
+#~ msgstr "Tous Droits Réservés"
+
+#~ msgid "Image Type"
+#~ msgstr "Type d'image"
+
+#~ msgid "-- All --"
+#~ msgstr "-- Tout --"
+
+#~ msgid "Photo"
+#~ msgstr "Photo"
+
+#~ msgid "Screenshot"
+#~ msgstr "Capture d'écran"
+
+#~ msgid "Other"
+#~ msgstr "Autre"
+
+#~ msgid "Photo and screenshot"
+#~ msgstr "Photo et capture d'écran"
+
+#~ msgid "Screenshot and \"other\""
+#~ msgstr "Captures d'écran et \"autre\""
+
+#~ msgid "Photo and \"other\""
+#~ msgstr "Photo et \"autre\""
+
+#~ msgid "From now on, <b>it's required</b> to provide your own Google <i>Search engine ID</i> and <b>API Key</b>. You must follow the process <a target=\"_blank\" href=\"https://developers.google.com/custom-search/json-api/v1/overview#prerequisites/\">here</a>. You must get both valid <strong>Search engine ID</strong> and <strong>API Key</strong>"
+#~ msgstr "A partir de maintenant, <b>vous devez</b> renseigner votre <b>Identifiant</b> et <b>clef API</b> de Google. Vous devez suivre la procédure <a target=\"_blank\" href=\"https://developers.google.com/custom-search/json-api/v1/overview#prerequisites/\">içi</a>. Vous devez posséder un <strong>Identifiant</strong> valide et une <strong>clef API</strong> valide."
+
+#~ msgid "Choose the language"
+#~ msgstr "Choisissez la langue"
+
+#~ msgid "Amharic"
+#~ msgstr "Amharique"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Azerbaïdjanais"
+
+#~ msgid "Basque"
+#~ msgstr "Basque"
+
+#~ msgid "Belarusian"
+#~ msgstr "Biélorusse"
+
+#~ msgid "Bengali"
+#~ msgstr "Bengali"
+
+#~ msgid "Bihari"
+#~ msgstr "Bihari"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Bulgare"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "Chinois (Simplifié)"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "Chinois (traditionnel)"
+
+#~ msgid "Czech"
+#~ msgstr "Tchèque"
+
+#~ msgid "Dutch"
+#~ msgstr "Néerlandais"
+
+#~ msgid "Estonian"
+#~ msgstr "Estonien"
+
+#~ msgid "Faroese"
+#~ msgstr "Féroïen"
+
+#~ msgid "Frisian"
+#~ msgstr "Frison"
+
+#~ msgid "Galician"
+#~ msgstr "Galicienne"
+
+#~ msgid "Georgian"
+#~ msgstr "Géorgien"
+
+#~ msgid "German"
+#~ msgstr "Allemand"
+
+#~ msgid "Greek"
+#~ msgstr "Grecque"
+
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgid "Hebrew"
+#~ msgstr "Hébreu"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgid "Interlingua"
+#~ msgstr "Interlingua"
+
+#~ msgid "Irish"
+#~ msgstr "Irlandais"
+
+#~ msgid "Javanese"
+#~ msgstr "Javanais"
+
+#~ msgid "Kannada"
+#~ msgstr "Kannada"
+
+#~ msgid "Latin"
+#~ msgstr "Latin"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Lituanien"
+
+#~ msgid "Malay"
+#~ msgstr "Malais"
+
+#~ msgid "Malayam"
+#~ msgstr "Malayam"
+
+#~ msgid "Maltese"
+#~ msgstr "Maltais"
+
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgid "Nepali"
+#~ msgstr "Népalais"
+
+#~ msgid "Norwegian (Nynorsk)"
+#~ msgstr "Norvégien (Nynorsk)"
+
+#~ msgid "Occitan"
+#~ msgstr "Occitan"
+
+#~ msgid "Persian"
+#~ msgstr "Persan"
+
+#~ msgid "Portuguese (Brazil)"
+#~ msgstr "Portugais (Brésil)"
+
+#~ msgid "Portuguese (Portugal)"
+#~ msgstr "Portugais (Portugal)"
+
+#~ msgid "Punjabi"
+#~ msgstr "Punjabi"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "Gaélique écossais"
+
+#~ msgid "Sinhalese"
+#~ msgstr "Cinghalais"
+
+#~ msgid "Slovenian"
+#~ msgstr "Slovène"
+
+#~ msgid "Sudanese"
+#~ msgstr "Soudanais"
+
+#~ msgid "Tagalog"
+#~ msgstr "Tagalog"
+
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgid "Thai"
+#~ msgstr "Thaïlandais"
+
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ukrainien"
+
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgid "Uzbek"
+#~ msgstr "Ouzbek"
+
+#~ msgid "Xhosa"
+#~ msgstr "Xhosa"
+
+#~ msgid "Zulu"
+#~ msgstr "Zoulou"
+
+#~ msgid "Specified color predominantly"
+#~ msgstr "Couleur principale"
+
+#~ msgid "-- Default --"
+#~ msgstr "- Par défaut -"
+
+#~ msgid "Black"
+#~ msgstr "Noir"
+
+#~ msgid "Blue"
+#~ msgstr "Bleu"
+
+#~ msgid "Brown"
+#~ msgstr "Marron"
+
+#~ msgid "Gray"
+#~ msgstr "Gris"
+
+#~ msgid "Green"
+#~ msgstr "Vert"
+
+#~ msgid "Pink"
+#~ msgstr "Rose"
+
+#~ msgid "Purple"
+#~ msgstr "Violet"
+
+#~ msgid "Teal"
+#~ msgstr "Bleu-vert"
+
+#~ msgid "White"
+#~ msgstr "Blanc"
+
+#~ msgid "Yellow"
+#~ msgstr "Jaune"
+
+#~ msgid "Experimental"
+#~ msgstr "Expérimental"
+
+#~ msgid "Restricts results to images that contain a specified color predominantly"
+#~ msgstr "Limite les résultats aux images qui contiennent une couleur prédominante"
+
+#~ msgid "Filetype"
+#~ msgstr "Type de fichier"
+
+#~ msgid "Restricts image search to one of the following specific file types"
+#~ msgstr "Restreint la recherche d'image à un seul type d'image"
+
+#~ msgid "Choose these options can reduce relevance of results, but permit to use free-to-use images."
+#~ msgstr "Ces options peuvent réduire la pertinence des résultats, mais permet d'utiliser des images libre de droit."
+
+#~ msgid "Image size"
+#~ msgstr "T'aille d'image"
+
+#~ msgid "icon"
+#~ msgstr "icône"
+
+#~ msgid "small"
+#~ msgstr "petite"
+
+#~ msgid "medium"
+#~ msgstr "moyenne"
+
+#~ msgid "large"
+#~ msgstr "grand"
+
+#~ msgid "xlarge"
+#~ msgstr "très grand"
+
+#~ msgid "xxlarge"
+#~ msgstr "très très grand"
+
+#~ msgid "huge"
+#~ msgstr "énorme"
+
+#~ msgid "Face"
+#~ msgstr "Visage"
+
+#~ msgid "Safety level"
+#~ msgstr "Filtre adulte"
+
+#~ msgid "Moderate (default)"
+#~ msgstr "Modéré (par défaut)"
+
+#~ msgid "Active"
+#~ msgstr "Activé"
+
+#~ msgid "Off"
+#~ msgstr "Désactivé"
+
+#~ msgid "Search Preferences"
+#~ msgstr "Préférences de recherche"
+
+#~ msgid "Relevant post type"
+#~ msgstr "Type de contenus concernés"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Search picture according title"
+#~ msgstr "Rechercher les images selon le titre"
+
+#~ msgid "Full title"
+#~ msgstr "Titre complet"
+
+#~ msgid "Part of the title"
+#~ msgstr "Une partie du titre"
+
+#~ msgid "first words of the title"
+#~ msgstr "premiers mots du titre"
+
+#~ msgid "Image bank"
+#~ msgstr "Banque d'image"
+
+#~ msgid "Choose which database you want to search for pictures"
+#~ msgstr "Choisissez dans quelle banque d'images vous voulez rechercher"
+
+#~ msgid "From now on, <b>it's required</b> to provide your own <b>username</b> and <b>api key</b>. You can register in Pixabay website <a target=\"_blank\" href=\"https://pixabay.com/en/accounts/register/\">here</a> and get api username/key <a target=\"_blank\" href=\"https://pixabay.com/api/docs/\">here</a>"
+#~ msgstr "A partir de maintenant, <b>vous devez</b> renseigner votre <b>nom d'utilisateur</b> et <b>clef api</b>. Vous pouvez vous enregistrer sur Pixabay <a target=\"_blank\" href=\"https://pixabay.com/en/accounts/register/\">içi</a> et récupérer votre nom d'utilisateur/clef api <a target=\"_blank\" href=\"https://pixabay.com/api/docs/\">içi</a>."
+
+#~ msgid "Pixabay username"
+#~ msgstr "Pixabay username"
+
+#~ msgid "Minimum width"
+#~ msgstr "Largeur minimale"
+
+#~ msgid "Minimum height"
+#~ msgstr "Hauteur minimale"
+
+#~ msgid "Safesearch"
+#~ msgstr "Recherche Sécurisée"
+
+#~ msgid "Thumbnail's image of "
+#~ msgstr "L'image à la une de "
+
+#~ msgid " already exist"
+#~ msgstr "existe déjà"
+
+#~ msgid "No image for "
+#~ msgstr "Pas d'image pour"
+
+#~ msgid "Successful image creation for "
+#~ msgstr "Création de l'image réussie pour "
+
+#~ msgid "Error while creating image"
+#~ msgstr "Erreur lors de la création de l'image"
+
+#~ msgid "Successful generation"
+#~ msgstr "Génération réussie"
+
+#~ msgid "Plugin enabled for this post"
+#~ msgstr "Plugin activé sur cet article"
+
+#~ msgid "Orange"
+#~ msgstr "Orange"
+
+#~ msgid "Red"
+#~ msgstr "Rouge"
+
+#~ msgid "Choose which pictures database you want to search for pictures"
+#~ msgstr "Choisissez dans quelle banque d'images vous voulez rechercher des images"
+
+#~ msgid "Database"
+#~ msgstr "Base d'image"
+
+#~ msgid "Save Options"
+#~ msgstr "Enregistrer les modifications"
+
+#~ msgid "Choose your language"
+#~ msgstr "Choisissez votre langue"
+
+#~ msgid "Choose your database"
+#~ msgstr "Choisissez votre base d'images"
+
+#~ msgid "Only Pixabay is available now, but others databases will be available with next versions"
+#~ msgstr "Pixabay est le seul disponible maintenant, d'autres bases d'images seront dispo dans les prochaines versions"
+
+#~ msgid "Sorry, your server require allow_url_fopen ON, please update your server before using this plugin"
+#~ msgstr "Désolé, allow_url_fopen doit être activé, veuillez s'il vous plait mettre à jour votre serveur afin d'utiliser ce plugin."
+
+#~ msgid "Safe mode protects images sexually explicit"
+#~ msgstr "Le mode Safe protège des images à caractère sexuel explicite"
+
+#~ msgid "Choose your Google country's search"
+#~ msgstr "Choisissez votre pays de recherche Google"
+
+#~ msgid "Brazil"
+#~ msgstr "Brésil"
+
+#~ msgid "Canada"
+#~ msgstr "Canada"
+
+#~ msgid "Egypt"
+#~ msgstr "Egypte"
+
+#~ msgid "France"
+#~ msgstr "France"
+
+#~ msgid "Netherlands"
+#~ msgstr "Pays-Bas"
+
+#~ msgid "Mexico"
+#~ msgstr "Mexique"
+
+#~ msgid "Morocco"
+#~ msgstr "Maroque"
+
+#~ msgid "Peru"
+#~ msgstr "Pérou"
+
+#~ msgid "South Africa"
+#~ msgstr "Afrique du Sud"
+
+#~ msgid "Spain"
+#~ msgstr "Espagne"
+
+#~ msgid "Swiss"
+#~ msgstr "Suisse"
+
+#~ msgid "UK"
+#~ msgstr "Royaume-Uni"
+
+#~ msgid "USA"
+#~ msgstr "États-Unis"
+
+#~ msgid "Country's google search"
+#~ msgstr "Pays sur lequel porte la recherche"
+
+#~ msgid "Usage rights"
+#~ msgstr "Droits d'usage"
+
+#~ msgid "not filtered by license"
+#~ msgstr "non filtré par licence"
+
+#~ msgid "free to use or share"
+#~ msgstr "libre de droits d'usage ou de distribution"
+
+#~ msgid "free to use or share, even commercially"
+#~ msgstr "libre de droits d'usage ou de distribution, y compris à des fins commerciales"
+
+#~ msgid "free to use share or modify"
+#~ msgstr "libre de droits d'usage, de distribution ou de modification"
+
+#~ msgid "free to use, share or modify, even commercially"
+#~ msgstr "libre de droits d'usage, de distribution ou de modification, y compris à des fins commerciales"
+
+#~ msgid "Filter only images royalty-free ... <b> Warning </b>: These filters can reduce the relevance of some results"
+#~ msgstr "Filtre uniquement les images libre de droit... <b>Attention</b> : ces filtres peuvent réduire\t la pertinence de certains résultats"
